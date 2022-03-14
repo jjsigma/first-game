@@ -1,0 +1,39 @@
+.warning {
+  color:rgb(255, 0, 0);
+}
+.forum-kotiki-header {
+  color:rgb(221, 16, 221);
+}
+.ad {
+  color:crimson;
+  background-color:darkgreen;
+  border-radius: 10px;
+  font-size: 16px;                  
+line-height: 26px;         
+font-family: "Arial", sans-serif;
+} 
+.body {
+  background-color: bisque;
+  color:indigo;
+}
+.dark-theme {
+  background-color:rgb(0, 0, 0);
+color: darkorange;
+} 
+.theme-button {
+  color:blanchedalmond;
+  background-color:darkblue;
+  font-family: cursive;
+}
+.main {
+  background-color:cadetblue;
+  border-radius: 50px;
+  /*text-align: center;*/
+  padding: 0 30px;
+}
+.comments-top {
+  padding: 0 30px;
+  text-align: center;
+  color:blueviolet;
+  margin-bottom: 10px;
+}
